@@ -1,75 +1,32 @@
 {"poi":[
   {
-    "name":"Río Guejar",
-    "shortDescription":"Maravilla natural. Ecoturismo.",
-    "review":"Puntuación: 4/5",
-    "image":"guejar"
+ "id": 1,
+    "name": "Río Guejar",
+    "shortDescription": "Maravilla natural. Ecoturismo.",
+    "info": "Río de aguas claras y lecho rocoso enclavado en un cañon formado en la Sierra de La Macarena. Lugar de naturaleza y belleza exuberante.",
+    "review": "4.5",
+    "population": "4,906",
+    "temperature": "Entre 20 y 35°C",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Avarua%2C_february_2006.jpg",
+    "location": [
+      -21.21296732060628,
+      -159.78394095827818
+    ]
   },
   {
-    "name":"Caño Cristales",
-    "shortDescription":"Maravilla natural. Ecoturismo.",
-    "review":"Puntuación: 5/5",
-    "image":"cristales"
-  },
-  {
-    "name":"Ombligo de Colombia",
-    "shortDescription":"Sitio de interés. Turismo cultural.",
-    "review":"Puntuación: 3/5",
-    "image":"ombligo"
-  },
-  {
-    "name":"Termales del Ruiz",
-    "shortDescription":"Termales Volcánicos. Ecoturismo.",
-    "review":"Puntuación: 5/5",
-    "image":"termalesdelruiz"
-  },
-  {
-    "name":"Nevado del Ruiz",
-    "shortDescription":"Maravilla natural. Ecoturismo.",
-    "review":"Puntuación: 5/5",
-    "image":"nevado"
-  },
-  {
-    "name":"Parque del Café",
-    "shortDescription":"Parque de atracciones temático. Turismo cultural.",
-    "review":"Puntuación: 5/5",
-    "image":"parquedelcafe"
-  },
-  {
-    "name":"Tibasosa",
-    "shortDescription":"Parque de atracciones extremas. Turismo extremo.",
-    "review":"Puntuación: 5/5",
-    "image":"tibasosa"
-  },
-  {
-    "name":"Villa de Leyva",
-    "shortDescription":"Museos  y sitios de Interes. Turismo cultural.",
-    "review":"Puntuación: 5/5",
-    "image":"villa"
-  },
-  {
-    "name":"Mongui",
-    "shortDescription":"Fabrica de Balones. Turismo cultural.",
-    "review":"Puntuación: 5/5",
-    "image":"mongi"
-  },
-  {
-    "name":"Monserrate",
-    "shortDescription":"Altura y fe de la capital. Turisto cultural.",
-    "review":"Puntuación: 5/5",
-    "image":"monserrat"
-  },
-  {
-    "name":"Maloka",
-    "shortDescription":"Museo interactivo de ciencia y tecnologia. Turisto cultural.",
-    "review":"Puntuación: 5/5",
-    "image":"maloka"
-  },
-  {
-    "name":"Parque simon Bolivar",
-    "shortDescription":"Parque urbano y pulmon de Bogota. Turisto cultural.",
-    "review":"Puntuación: 5/5",
-    "image":"simon"
+ "id": 2,
+    "name": "Caño Cristales",
+    "shortDescription": "Maravilla natural. Ecoturismo.",
+    "info": "Ubicados en el Parque Nacional Natural de los Nevados, a 3500 metros de altura sobre el nivel del mar, a sólo 10 km del Nevado del Ruíz y 36 km de Manizales. Con una ubicación privilegiada y un paisaje impactante por la belleza natural que posee, espectacular vista a la ciudad de Manizales, y una noche de firmamento con variedad de azules lleno de estrellas en conjunto con la luna a un paso de las nubes.",
+    "review": "Puntuación: 5/5",
+    "population": "4,906",
+    "temperature": "Entre 20 y 35°C",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Avarua%2C_february_2006.jpg",
+    "location": [
+      -21.21296732060628,
+      -159.78394095827818
+    ]
   }
-]
+  ]
  }
+  
